@@ -5,13 +5,12 @@
 
 > **Lightweight, fast, and intuitive C++ library for BlueStacks configuration management**
 
-`bstk-conf` provides a modern, type-safe C++ API for parsing, modifying, and generating BlueStacks emulator configuration files. Designed for developers building automation tools, configuration managers, or custom launchers for BlueStacks.
+`bstk-conf` provides a modern, type-safe C++ API for parsing, modifying, and generating BlueStacks emulator configuration files.
 
 ---
 
 ## Features
 
-- **Zero Dependencies** - Header-only option available, only requires C++17
 - **High Performance** - O(1) lookups, efficient parsing, minimal memory footprint
 - **Type-Safe** - Strongly typed values with automatic type inference
 - **Structured API** - Object-oriented interface with `Global` and `Instance` classes
